@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/1mdf0Ve04hsfRv8jSirkeWvW8ZeI8n0OY/view?usp=sharing,
 
 baseurl: yash-dani.github.io
 url: https://yash-dani.github.io
