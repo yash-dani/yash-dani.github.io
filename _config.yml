@@ -14,8 +14,8 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://drive.google.com/file/d/1mdf0Ve04hsfRv8jSirkeWvW8ZeI8n0OY/view?usp=sharing,
+resume-external: false
+resume-url: assets/yash_dani_resume.pdf
 
 #baseurl: yash-dani.github.io
 url: https://yash-dani.github.io
