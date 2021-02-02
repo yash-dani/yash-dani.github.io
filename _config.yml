@@ -1,9 +1,10 @@
 # main text of home
 title: Yash Dani
+name: Yash Dani
 bio: Software Engineering Student @ uWaterloo
 
 # twitter summary info
-description: Yash Dani - Software Engineering @ uWaterloo
+description: Yash Dani's personal site.
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,7 +17,7 @@ resume: true
 resume-external: true
 resume-url: https://drive.google.com/file/d/1mdf0Ve04hsfRv8jSirkeWvW8ZeI8n0OY/view?usp=sharing,
 
-baseurl: yash-dani.github.io
+#baseurl: yash-dani.github.io
 url: https://yash-dani.github.io
 # your url: https://USERNAME.github.io
 
@@ -39,10 +40,11 @@ disqus:
 twitter: itsyashdani
 # instagram: myinstagram
 # pinterest: mypinterest
+github: yash-dani
 linkedin: ydani
 # youtube: myyoutube
 # spotify: myspotify
-github: yash-dani
+
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow

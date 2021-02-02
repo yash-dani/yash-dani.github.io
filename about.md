@@ -8,14 +8,13 @@ layout: page
 
 <p>I'm a software engineering student at uWaterloo who's constantly making things. Excited you found my corner of the internet!<br><br>
 
-I'm looking for an internship from January 2021 onwards. If you're interested, let's <a href="https://www.linkedin.com/in/ydani/">chat</a> 👀</p>
+I'm looking for an internship for fall 2021. If you're interested, let's <a href="https://www.linkedin.com/in/ydani/">chat</a></p>
 
-<h2>🔭 Some of my work:</h2>
+<h2>🔭 Currently:</h2>
 <ul class="skill-list">
-	<li>Creating scholarize.me; currently in a private beta of 100 users 👀</li>
-	<li>Innovating with openAI's GPT-3, I made <a href="https://twitter.com/itsyashdani/status/1285695850300219392?s=20">this.</a> 👨🏾‍💻</li>
-	<li>Building AI for doctors on the NLP team @ conversationHEALTH 👩‍⚕️</li>
-	<li>Developing tools for scientists as a full-stack dev @ Jelly PBC 🧬</li>
+	<li>Platform Architecture Intern @ Shareworks by Morgan Stanley</li>
+	<li>Developer Community Ambassador @ openAI</li>
+	<li>Software Engineering Student @ uWaterloo</li>
 </ul>
 
 <p>To stay more up to date with with my work, check out my <a href="https://github.com/yash-dani">GitHub</a>.
