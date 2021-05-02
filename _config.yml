@@ -1,7 +1,16 @@
 # main text of home
 title: Yash Dani
 name: Yash Dani
-bio: Software Engineering Student @ uWaterloo
+bio: >
+  I'm a Software Engineering student at the University of Waterloo. 
+
+  Recently, I've built projects used by over 250,000 people.
+
+  Previously, I've interned at Shareworks by Morgan Stanley, and a bunch of startups. 
+
+  At Waterloo, I help run Hack the North.
+
+  Excited you found my corner of the internet!
 
 # twitter summary info
 description: Yash Dani's personal site.
@@ -49,7 +58,6 @@ linkedin: ydani
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: daniyash19
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: yash.dani@uwaterloo.ca
@@ -76,11 +84,11 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
-about: true
-blog: true
+about: false
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
