@@ -6,18 +6,19 @@
 
 {% if showHeader == true %}
     <header class="header-home {% if site.animation %}animated{% endif %}">
-        {% if site.about %}
+        <!-- {% if site.about %}
             <a class="link gradient-border" href="{{ site.url }}/">
                 <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
             </a>
         {% else %}
-            <!-- <span class="link">
+            <span class="link">
                 <img class="selfie gradient-border" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-            </span> -->
-        {% endif %}
+            </span>
+        {% endif %} -->
 
-        <h1 class="title">{{ site.name }}</h1>
-        <p>I'm a second year Software Engineering student at the University of Waterloo. Currently interning at <a href="https://snap.com/">Snap Inc.</a> as a Software Engineer. I'm interested in full-stack development, aritificial intelligence, and design. <br><br>I've built <a href="https://github.com/yash-dani">projects</a> with over 250,000 users. Previously, I interned at <a href="https://shareworks.com">Shareworks by Morgan Stanley</a> and <a href="https://conversationhealth.com">conversationHEALTH</a>. At Waterloo, I help run <a href="https://hackthenorth.com">Hack the North</a>.<br><br>On my spare time, I love to sing, cook, and do long distance running!</p>
+        <h1 class="title" style="font-family: 'Halant', serif; color: #1D1D1D;">{{ site.name }}</h1>
+        <p style="font-family: 'Nunito Sans', sans-serif; color: #1D1D1D;">Currently a senior at the University of Waterloo. Previously done internships at Databricks, Apple, and Snap Inc. Get in touch below!</p>
+
 
         {% include social-links.html %}
 
